@@ -1,4 +1,4 @@
 # Visual-Prompt-Studio
-Jason Pick
-Art Appreciation
-This is my prompt portfolio for my Art Appreciation Class.
+**Name** Jason Pick
+**Course** Art Appreciation
+**Description** This is my prompt portfolio for my Art Appreciation Class.
