@@ -1,3 +1,3 @@
-**project title** 
+**project title** tidewalkers
 **text prompt** Create a poster of a science fiction blockbuster that has the landscape of a futuristic town with Dogs and foxes that can swim in the water They can swim underwater like fish for a longtime. The town resembles the beach of Warrenton oregon.  Use sharp geometric lines for the boats and the cars and organic contour lines for the animals.  Use the ocean as a positive shape and the sand as a negative shape.  The  texture of the sand is rough and the volume of the water is mass use regular red to show the lighthouse as a focal point.
 **glossary** Lines-horizontal, perpendicular, connects, two points    Shape-cone cube  Texture-how it feels  Volume fills up space  Contrast-positive shapes positive and negative
