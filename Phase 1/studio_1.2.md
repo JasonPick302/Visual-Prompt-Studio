@@ -1,0 +1,3 @@
+*project title* visual Prompt studio 1.2 Album cover
+* text prompt* Create a retro 1980's album cover with a sailboat in the middle of the ocean similar to Duran Duran's Rio as the subject matter. Let dark values shade the ocean and light shade values be the sky. Let the sun shine as a beam upon the water. Overlap the sailboat in front of another boat to show the size . Show movement of the boat by showing blurred speed lines in the water.  Use the triangular shape of the sailboat to connect the water ,  the sky,  and the sailboat. Show people on the boat with neon colored suits to show the 80's retro look as well as pastel colors in the sky.  Make the album symmetrical.
+* *genre choice* Synthw
