@@ -4,4 +4,4 @@
 
 **genre choice** Synthwave/Retro 1980's
 
-**glossary** 1. value: lightness +darkness space: areas around something 2. unity: how something comes together 3. Balance: equal on both sides it can be shapes or balancing something or one side with something or the other side. 4. Rhythm: like a flow.
+**glossary**  1. value: lightness and darkness 2. space: areas around something 3. unity: how something comes together 4.  Balance: equal on both sides it can be shapes or balancing something or one side with something or the other side. 5.  Rhythm: like a flow.
