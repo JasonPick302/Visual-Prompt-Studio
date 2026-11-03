@@ -1,1 +1,3 @@
-
+**project title ** visual studio 2.1
+** Prompt A **  Create an artwork that uses graphite pencil HB and emphacizes curved lines that outline the trunk of a tree and an organic shape that outlines the leaves of the tree.  Contrast the darker shades of the leaves with the lighter shades of the leaves.  Use positive space for the tree shadow and negative space around the shadow. Show motion of the tree by blending the graphite pencil. Create texture of the tree leaves by using cross-hatching.
+** Prompt B ** Create an artwork that uses wood to create a Relief printing that emphacizes curved lines that outline the trunk of a tree and an organic shape that outlines the leaves of the tree.  Contrast the darker shades of the leaves with the lighter shades of the leaves.  Use positive space for the tree shadow and negative space around the shadow. Show motion of the tree by blending the graphite pencil. Create texture of the tree leaves by using cross-hatching.
